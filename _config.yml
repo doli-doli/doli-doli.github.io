@@ -9,7 +9,7 @@ title_separator          : "&#124;" # 타이틀 사이 구분자 <title>Welcome 
 subtitle                 : "2020-08-04~ing" # 타이틀 아래에 나올 작은 글씨 
 name                     : "JaeHun JO" # 맨 하단 이름 찍히는 영역
 description              : "JAVA와 JSP등 다양한 개발을 공부하는 블로그" # Meta 태그에 들어가는 영역 
-url                      : "https://goahead-jo.xyz" # GitBlog 호스트 주소
+url                      : "https://doli-doli.github.io" # GitBlog 호스트 주소
 baseurl                  : # subPath https://doli-doli.github.io/blog라고 하고 싶을 시 "/blog" 라고 적는다.
 repository               : "doli-doli/doli-doli.github.com" # GitHub username/repo-name  
 teaser                   : # "/assets/images/senior-couple-4723737_640.jpg" # 홈페이지 기본 티져 이미지
@@ -108,10 +108,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #url: mailto:7271kim@naver.com
+      url: mailto:cho5356@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://goahead-jo.xyz/"
+      url: "https://doli-doli.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
