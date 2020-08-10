@@ -120,7 +120,7 @@ author:
       url: "https://github.com/doli-doli"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:cho5356@gmail.com
+     # url: mailto:cho5356@gmail.com
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
