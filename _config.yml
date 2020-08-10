@@ -106,9 +106,6 @@ author:
   location         : "Republic of Korea"
   email            : "cho5356@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:cho5356@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://doli-doli.github.io/"
@@ -121,6 +118,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/doli-doli"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:cho5356@gmail.com
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
