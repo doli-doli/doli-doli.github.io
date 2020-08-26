@@ -8,13 +8,13 @@ title                    : "공부하는 초보 개발자" # Meta 태그에 들�
 title_separator          : "&#124;" # 타이틀 사이 구분자 <title>Welcome to Jekyll | Minimal Mistakes</title> 해당 형식으로 들어갑니다.
 subtitle                 : "2020-08-04~ing" # 타이틀 아래에 나올 작은 글씨 
 name                     : "JaeHun JO" # 맨 하단 이름 찍히는 영역
-description              : "JAVA와 JSP등 다양한 개발을 공부하는 블로그" # Meta 태그에 들어가는 영역 
+description              : "개발을 공부하는 블로그" # Meta 태그에 들어가는 영역 
 url                      : "https://doli-doli.github.io" # GitBlog 호스트 주소
 baseurl                  : # subPath https://doli-doli.github.io/blog라고 하고 싶을 시 "/blog" 라고 적는다.
 repository               : "doli-doli/doli-doli.github.com" # GitHub username/repo-name  
 teaser                   : # "/assets/images/senior-couple-4723737_640.jpg" # 홈페이지 기본 티져 이미지
 logo                     : # 타이틀 옆에 작게 들어갈 이미지.
-masthead_title           : "공부하는 초보 개발자 Blog" # 홈페이지 최 상탄에 들어갈 타이틀
+masthead_title           : "공부하는 초보 개발자 " # 홈페이지 최 상탄에 들어갈 타이틀
 breadcrumbs              : true # 브래드크럼 사용 여부 true, false (default) , _data/ui-text.yml에 다국어 지원 가능합니다.
 words_per_minute         : 200 # 해당 포스트 읽는데 걸리는 시간을 계산하기 위해 대락 분당 읽는 수가 몇글자가 될지 적는 공간.
 
@@ -102,13 +102,13 @@ analytics:
 author:
   name             : "JaeHun JO"
   avatar           : "/assets/images/profile/dev.png" # 프로필 이미지
-  bio              : "꾸준히 공부하려 노력하는 개발자입니다. <br> 잘못된 부분이나 수정했으면 하는 부분 댓글 남겨주신다면 감사하겠습니다."
-  location         : "Republic of Korea"
+  bio              : "꾸준히 공부하려 노력하는 초보 개발자입니다. <br> 잘못된 부분 댓글이나 메일 주신다면 감사하겠습니다."
+  #location         : "Republic of Korea"
   email            : "cho5356@gmail.com"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://doli-doli.github.io/"
+      #url: "https://doli-doli.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
