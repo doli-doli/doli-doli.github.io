@@ -4,9 +4,10 @@ main:
   #  url: /categories/
   #- title: "Tags"
   #  url: /tags/
+  - title: "Home"
+    url: https://goaheadjo.xyz
   - title: "Posts"
     url: /posts/
-
   #- title: "About"
    # url: /about/
 
