@@ -6,7 +6,7 @@ main:
   #  url: /tags/
   - title: "Home"
     url: https://goahead-jo.xyz
-  - title: "Posts"
+  - title: "Posts by Year"
     url: /posts/
   #- title: "About"
    # url: /about/
