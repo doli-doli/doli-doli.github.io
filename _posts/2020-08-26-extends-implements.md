@@ -1,5 +1,7 @@
 ---
 title: 자바 상속(extends, implements) 차이
+tags:
+- java
 ---
 
 # **상속**
