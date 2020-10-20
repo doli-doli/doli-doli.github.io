@@ -5,8 +5,7 @@ tags:
 - java
 ---
 
-
-## \<web-app\> Elemen
+## \<web-app\> Element
 web.xml의 Root-Element 기능을 담당한다.
 - xmlns와 servlet의 버전을 설정
 
